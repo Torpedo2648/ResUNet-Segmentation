@@ -4,7 +4,7 @@
 - 由于数据集为医院所有，暂时无法公开，敬请谅解
 
 ## model
-- 尝试搭建了UNet和ResUNet，其中UNet效果不错。ResUNet效果并不理想，留待完善
+- 本项目手动搭建了UNet和ResUNet。其中UNet效果不错，而ResUNet效果并不理想，留待完善
 
 ## Description
 - 无加号的是用原始的2070张图像的训练结果
